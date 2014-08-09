@@ -8,7 +8,7 @@ for taking the time to evaluate my code and plots.
 
 
 ![plot of plot1.png](plot1.png)
-![code for plot1.png](plot1.r)
+![code for plot1.png](plot1.R)
 
 
 ### Plot 2
