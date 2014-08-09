@@ -1,4 +1,4 @@
-## Introduction
+## Assignment 1 Solutions
 
 My solutions to assignment 1 are included in this repo and are shown below.  Thanks
 for taking the time to evaluate my code and plots.
